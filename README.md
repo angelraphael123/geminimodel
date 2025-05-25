@@ -1,4 +1,3 @@
-# geminimodel
 # Q&A Chatbot with Gemini LLM
 
 This project demonstrates a Q&A chatbot application built using the Gemini Language Model from Google Generative AI. It also supports generating insights from uploaded images using the `gemini-pro-vision` model.
