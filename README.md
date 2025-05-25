@@ -64,6 +64,3 @@ To run this project, ensure you have the following:
 4. View the chatbot's responses and interaction history on the interface.
 
 ---
-
-## File Structure
-
